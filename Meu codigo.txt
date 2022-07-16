@@ -1,3 +1,5 @@
 Olá essa é a aula de git.
 
 acabei de fazer uma mudança.
+
+Adicionei uma nova branch chamada staging
